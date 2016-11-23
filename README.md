@@ -1,6 +1,6 @@
 # JS Environment
 
-This is a repo to learn how to create your own JS Development Environment, boilerplate, or starterkit from the ground up.
+This is a repo to learn how to create my own JS Development Environment, boilerplate, or starterkit from the ground up.  It's taken from https://github.com/coryhouse/javascript-development-environment on Pluralsight.
 
 ## Topics
 
